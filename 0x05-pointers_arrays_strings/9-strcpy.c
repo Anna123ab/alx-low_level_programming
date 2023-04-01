@@ -2,9 +2,11 @@
 
 /**
 * *_strcpy - copies the string pointed to by src
-* &dest: char type string
-* &src: char type  string
-* Description: copy the string pointed to by pointer 'src' to the buffer pointed by 'dest'
+*
+* @dest: char type string
+* @src: char type  string
+* Description: copy the string pointed to
+*	by pointer 'src' to the buffer pointed by 'dest'
 * Return: pointed to dest
 */
 
